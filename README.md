@@ -1,5 +1,4 @@
 # Guess-a-number
-study program
 
 ## Description
 
