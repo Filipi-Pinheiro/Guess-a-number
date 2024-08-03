@@ -17,4 +17,26 @@
 
   - I learned how the target method works, which helped me mainly in click events where there were several child elements.
   - I also learned the functionalities of the matches method, and when should I use it.
-  - I also improved a lot in my ability to analyze and solve problems.
+  - I also improved a lot in my ability to analyze and solve problems in a critical and constructive way.
+
+## technologies used
+
+<table>
+  <tr>
+    <td>HTML</td>
+    <td>CSS</td>
+    <td>Javascript</td>
+  </tr>
+  <tr>
+    <td>5.0</td>
+    <td>3.0</td>
+    <td>ECMAScript5.1</td>
+  </tr>
+</table>
+
+#
+
+## How to access
+
+To access the website, click on the link below! <br>
+<a href="https://filipi-pinheiro.github.io/Guess-a-number/" target="_blank">Access to website</a>
