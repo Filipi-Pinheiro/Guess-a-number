@@ -15,9 +15,9 @@
 
  ## What did i learn?
 
-  - I learned how the target method works, which helped me mainly in click events where there were several child elements.
-  - I also learned the functionalities of the matches method, and when should I use it.
-  - I also improved a lot in my ability to analyze and solve problems in a critical and constructive way.
+  1. I learned how the target method works, which helped me mainly in click events where there were several child elements.
+  2. I also learned the functionalities of the matches method, and when should I use it.
+  3. I also improved a lot in my ability to analyze and solve problems in a critical and constructive way.
 
 ## technologies used
 
