@@ -1,0 +1,59 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #eee;
+}
+
+header, main{
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  width: 90vw;
+  color: #333;
+}
+
+button{
+  box-shadow: 0px 3px 0px gray;
+}
+button:active{
+  box-shadow: none;
+  transform: translateY(3px);
+}
+
+main{
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+
+.kick_box{
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  & .kick_number{
+    font-size: 5em;
+  }
+  & .kick_button{
+    margin: auto;
+    padding: 5px;
+    width: 120px;
+    font-size: 15px;
+  }
+}
+
+.number_box{
+  display: flex;
+  flex-flow: row wrap;
+  width: 290px;
+  gap: 10px;
+  & .number{
+    font-size: 1.5em;
+    width: 50px;
+    height: 50px;
+  }
+}
