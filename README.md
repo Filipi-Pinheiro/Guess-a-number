@@ -1,5 +1,5 @@
 # Guess-a-number
-<p align="center">study program</p>
+study program
 
 ## Description
 
